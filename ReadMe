@@ -1,0 +1,6 @@
+Run main.py in order to train the models and see the values for one test case. The number of epochs is set to 100 in order to rapidly train the data.
+After the training, the program proceeds to bounds computing.
+
+Run all_mains.py to train several test cases at once and see the values. Training all the examples takes a lot of time. See the notebook for direct results
+
+All the methods, results and bounds computations are shown in the joint notebook.   
